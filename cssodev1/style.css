@@ -1,0 +1,118 @@
+
+body {
+    background-color: #F2FFFA;
+    margin: 0;
+}
+
+.logo,ul li {
+    display: inline-block;
+}
+.header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    border-bottom: 3px solid darkgray;
+    background-color: #86B3A1;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+ul {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    float: right;
+}
+
+.m-rigth {
+    margin-right: 30px;
+}
+
+.logo {
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.menu ul li a:hover {
+    background-color: #F2FFFA;
+    color: #5a786c;
+}
+
+.first-article-k {
+    padding-top: 80px;
+}
+
+#first-article-m {
+    text-align: left;
+    padding-top: 80px;
+}
+
+article{
+    margin-top: 20px;
+    text-align: center;
+}
+
+article img {
+    height: 300px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 16px;
+}
+article div p, a, p {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+}
+
+article div p {
+    margin-right: 20px;
+}
+
+.menu-a {
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid #5a786c;
+            border-radius: 20px;
+            padding: 10px;
+            text-decoration: none;
+            color: black;
+}
+
+.phone-a {
+
+    text-decoration: none;
+    color: black;
+}
+
+#header-font {
+    font-family: 'Advent Pro', sans-serif;
+    font-size: x-large;
+}   
+
+#main-p {
+    position: fixed ;
+    margin-left: 30px;
+    margin-top: 30px;
+    color: gainsboro;
+    font-size: 20px;
+}
+
+#slogan {
+    margin-top: 860px;
+    color: white;
+    font-size: 40px;
+    font-family: 'Sacramento', cursive;
+}
+
+.m-a {
+    text-decoration: none;
+    color: #79a392;
+}
+
+.bottom-txt {
+    color: black;
+    font-size: 40px;
+    font-family: 'Sacramento', cursive;
+}
